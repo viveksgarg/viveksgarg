@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAE6FcmW9EE/WQDaLLWeaxcPmgBESWYq1w/view?utm_content=DAE6FcmW9EE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://khushboogoel01.github.io)
 <h2 align=center> 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"></h2>
 <h3 align="center">I'm Vivek, A passionate Android developer from India</h3>
 
@@ -37,10 +36,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksgarg&show_icons=true&locale=en&layout=compact" alt="viveksgarg" /></p>
 
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksgarg&show_icons=true&locale=en" alt="viveksgarg" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksgarg&" alt="viveksgarg" /></p>
-
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksgarg&label=Profile%20views&color=0e75b6&style=flat" alt="Happy Coding to my Peeps!" /> </p>
