@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vivekgarg147@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/129jfgLt798yWHr15tB8ZiamZHLBQfthY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19lS7kXmUqtM7nX2TGcX4AyHlOl86lJTx/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny XD**
 
